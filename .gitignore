@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Moon_NUnit/v16
+/Moon_NUnit/bin/Debug/netcoreapp3.1
+/Moon_NUnit/obj
